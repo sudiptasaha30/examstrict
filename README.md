@@ -1,0 +1,2 @@
+# examstrict
+Exam STRICT file
